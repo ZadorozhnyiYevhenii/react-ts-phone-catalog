@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fe7c0ccb.chunk.css",
+    "main.js": "./static/js/main.537907c6.chunk.js",
+    "main.js.map": "./static/js/main.537907c6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/js/2.4598f895.chunk.js": "./static/js/2.4598f895.chunk.js",
+    "static/js/2.4598f895.chunk.js.map": "./static/js/2.4598f895.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.fe7c0ccb.chunk.css.map": "./static/css/main.fe7c0ccb.chunk.css.map",
+    "static/js/2.4598f895.chunk.js.LICENSE.txt": "./static/js/2.4598f895.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/logo.c9417692.svg",
+    "static/media/ShopByCategory.scss": "./static/media/tablet_category.6336ca9e.png",
+    "static/media/DropDown.scss": "./static/media/arrowUp--icon.a61ad2d0.svg",
+    "static/media/BackButton.scss": "./static/media/arrowLeft--icon.7460d679.svg",
+    "static/media/BreadCrumbs.scss": "./static/media/home--icon.d4c29e4f.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phone.d7be5435.png": "./static/media/banner-phone.d7be5435.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/NavBar.scss": "./static/media/cart--icon.9d5d0d40.svg",
+    "static/media/CartItem.scss": "./static/media/close--icon.d99189a5.svg",
+    "static/media/Search.scss": "./static/media/search--icon.eb670dd9.svg",
+    "static/media/AddToFavourite.scss": "./static/media/fav-selected--icon.a50cb178.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/js/2.4598f895.chunk.js",
+    "static/css/main.fe7c0ccb.chunk.css",
+    "static/js/main.537907c6.chunk.js"
+  ]
+}
