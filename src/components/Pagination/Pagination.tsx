@@ -52,12 +52,12 @@ export const Pagination: React.FC<Props> = ({
         </Link>
       )}
 
-      {currentPage > 3 && <div className="pagination__dots">...</div>}
+      {(pages.length > 3 && currentPage > 3) && <div className="pagination__dots">...</div>}
 
       {PageNumber(pages, currentPage, searchParams)}
 
-      {pages.length - 1 > currentPage
-        && <div className="pagination__dots">...</div>}
+      {(pages.length - 1 > currentPage
+        && pages.length > 3) && <div className="pagination__dots">...</div>}
 
       <Link
         key={lastPage}

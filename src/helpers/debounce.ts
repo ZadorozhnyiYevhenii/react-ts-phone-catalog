@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-export function debounce<T extends (...args: any[]) => void>(
+export function debounce<T extends(...args: any[]) => void>(
   callback: T,
   delay: number) {
   let timerId = 0;

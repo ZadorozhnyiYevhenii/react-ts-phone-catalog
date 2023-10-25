@@ -1,3 +1,4 @@
+import React from 'react';
 import './BackToTop.scss';
 
 export const BackToTopButton = () => {
@@ -10,17 +11,16 @@ export const BackToTopButton = () => {
 
   return (
     <div className="scrollUp">
-      <label
-        htmlFor="scroll"
+      <span
         className="scrollUp__text"
       >
         Back to top
-      </label>
+      </span>
 
       <button
         className="scrollUp__button"
         type="button"
-        id="scroll"
+        aria-label="Back to top"
         onClick={scrollUp}
       >
         <div className="scrollUp__arrow" />
